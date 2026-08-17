@@ -1,0 +1,56 @@
+# ========================
+# Sistema Operacional
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ========================
+# Editores / IDEs
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ========================
+# Draw.io / diagrams.net
+# ========================
+# Arquivos de backup gerados pelo Draw.io
+*.drawio.bkp
+*.drawio.dtmp
+.drawio.bkp
+
+# Arquivos temporários
+*.tmp
+*.temp
+~$*
+
+# ========================
+# Outros
+# ========================
+# Logs
+*.log
+
+# Arquivos de ambiente (caso use no futuro)
+.env
+.env.*
+
+# Pastas de build ou cache (caso adicione ferramentas no futuro)
+dist/
+build/
+.cache/
+node_modules/
+
+# Arquivos de sistema macOS / Windows extras
+.AppleDouble
+.LSOverride
